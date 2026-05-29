@@ -5,42 +5,43 @@ An AI-powered web application that detects diseases in apple leaves using Deep L
 The system analyzes uploaded leaf images and predicts diseases with confidence scores, prevention methods, and treatment recommendations.
 
 🚀 Features
-🌿 Detect multiple apple leaf diseases
-🤖 Deep Learning based prediction system
-📸 Upload image or capture through camera
-📊 Confidence score with safe prediction threshold
-💊 Treatment and prevention recommendations
-📈 Disease probability analysis
-🗂 Prediction history tracking
-🌐 Responsive and modern web interface
+🌿 Detect multiple apple leaf diseases  
+🤖 Deep Learning based prediction system  
+📸 Upload image or capture through camera  
+📊 Confidence score with safe prediction threshold  
+💊 Treatment and prevention recommendations  
+📈 Disease probability analysis  
+🗂 Prediction history tracking  
+🌐 Responsive and modern web interface  
 ⚡ Fast and accurate disease detection
 
 🦠 Diseases Supported
-Alternaria Leaf Spot
-Brown Spot
-Frogeye Leaf Spot
-Grey Spot
-Mosaic
-Powdery Mildew
-Rust
-Scab
-Healthy Leaf Detection
+Alternaria Leaf Spot,
+Brown Spot,
+Frogeye Leaf Spot,
+Grey Spot,
+Mosaic,
+Powdery Mildew,
+Rust,
+Scab,
+Healthy Leaf Detection,
 Unknown/Uncertain Detection
+
 🛠 Technologies Used
-Frontend
-HTML5
-CSS3
-JavaScript
-Backend
-Python
-Flask
-Machine Learning
-PyTorch
-ResNet18
-Torchvision
-Other Libraries
-PIL (Python Imaging Library)
-Flask-CORS
+Frontend,
+HTML5,
+CSS3,
+JavaScript,
+Backend,
+Python,
+Flask,
+Machine Learning,
+PyTorch,
+ResNet18,
+Torchvision,
+Other Libraries,
+PIL (Python Imaging Library),
+Flask-CORS,
 NumPy
 
 📂 Project Structure
