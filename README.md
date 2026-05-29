@@ -47,11 +47,17 @@ NumPy
 Apple-Leaf-Disease-Detection/
 │
 ├── app.py
+
 ├── train.ipynb
+
 ├── templates/
+
 ├── static/
+
 ├── uploads/
+
 ├── treatment_recommendations/
+
 └── README.md
 
 ⚙️ Installation
