@@ -64,9 +64,9 @@ cd apple-leaf-disease-detection
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-3️⃣ Run Application
-
+3️⃣ Run Application  
 python app.py
+
 📸 How It Works  
 Upload an apple leaf image  
 AI model analyzes the image  
