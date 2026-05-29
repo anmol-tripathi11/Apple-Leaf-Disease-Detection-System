@@ -1,0 +1,39 @@
+{
+  "class_to_idx": {
+    "Alternaria leaf spot": 0,
+    "Background_without_leaves": 1,
+    "Brown spot": 2,
+    "Frogeye leaf spot": 3,
+    "Grey spot": 4,
+    "Health": 5,
+    "Mosaic": 6,
+    "Powdery mildew": 7,
+    "Rust": 8,
+    "Scab": 9
+  },
+  "idx_to_class": {
+    "0": "Alternaria leaf spot",
+    "1": "Background_without_leaves",
+    "2": "Brown spot",
+    "3": "Frogeye leaf spot",
+    "4": "Grey spot",
+    "5": "Health",
+    "6": "Mosaic",
+    "7": "Powdery mildew",
+    "8": "Rust",
+    "9": "Scab"
+  },
+  "num_classes": 10,
+  "class_names": [
+    "Alternaria leaf spot",
+    "Background_without_leaves",
+    "Brown spot",
+    "Frogeye leaf spot",
+    "Grey spot",
+    "Health",
+    "Mosaic",
+    "Powdery mildew",
+    "Rust",
+    "Scab"
+  ]
+}
