@@ -16,50 +16,44 @@ The system analyzes uploaded leaf images and predicts diseases with confidence s
 ⚡ Fast and accurate disease detection
 
 🦠 Diseases Supported
-Alternaria Leaf Spot,
-Brown Spot,
-Frogeye Leaf Spot,
-Grey Spot,
-Mosaic,
-Powdery Mildew,
-Rust,
-Scab,
-Healthy Leaf Detection,
-Unknown/Uncertain Detection
+Alternaria Leaf Spot  
+Brown Spot  
+Frogeye Leaf Spot  
+Grey Spot  
+Mosaic  
+Powdery Mildew  
+Rust  
+Scab  
+Healthy Leaf Detection  
+Unknown/Uncertain Detection  
 
 🛠 Technologies Used
-Frontend,
-HTML5,
-CSS3,
-JavaScript,
-Backend,
-Python,
-Flask,
-Machine Learning,
-PyTorch,
-ResNet18,
-Torchvision,
-Other Libraries,
-PIL (Python Imaging Library),
-Flask-CORS,
+Frontend  
+HTML5  
+CSS3  
+JavaScript  
+Backend  
+Python  
+Flask  
+Machine Learning  
+PyTorch  
+ResNet18  
+Torchvision  
+Other Libraries  
+PIL (Python Imaging Library)  
+Flask-CORS  
 NumPy
 
 📂 Project Structure
 Apple-Leaf-Disease-Detection/
 │
-├── app.py
-
-├── train.ipynb
-
-├── templates/
-
-├── static/
-
-├── uploads/
-
-├── treatment_recommendations/
-
-└── README.md
+├── app.py  
+├── train.ipynb  
+├── templates/  
+├── static/  
+├── uploads  
+├── treatment_recommendations/  
+└── README.md  
 
 ⚙️ Installation
 1️⃣ Clone Repository
@@ -73,25 +67,23 @@ pip install -r requirements.txt
 3️⃣ Run Application
 
 python app.py
-📸 How It Works
-Upload an apple leaf image
-AI model analyzes the image
-System predicts disease type
-Confidence score is generated
-Treatment and prevention tips are displayed
+📸 How It Works  
+Upload an apple leaf image  
+AI model analyzes the image  
+System predicts disease type  
+Confidence score is generated  
+Treatment and prevention tips are displayed  
 
-🧠 Model Information
-Model Architecture: ResNet18
-Framework: PyTorch
-Image Size: 224x224
-Prediction Type: Multi-class Classification
+🧠 Model Information  
+Model Architecture: ResNet18  
+Framework: PyTorch  
+Image Size: 224x224  
+Prediction Type: Multi-class Classification  
 
-🎯 Future Improvements
-Mobile Application Support
-Real-time Camera Detection
-Cloud Deployment
-Multi-language Support
-More Plant Disease Detection
+🎯 Future Improvements     
+Cloud Deployment  
+Multi-language Support  
+More Plant Disease Detection  
 
 👨‍💻 Author
 
