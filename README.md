@@ -52,7 +52,7 @@ Apple-Leaf-Disease-Detection/
 └── README.md
 ⚙️ Installation
 1️⃣ Clone Repository
-git clone https://github.com/your-username/apple-leaf-disease-detection.git
+git clone https://github.com/anmol-tripathi11/apple-leaf-disease-detection.git
 cd apple-leaf-disease-detection
 2️⃣ Install Dependencies
 pip install -r requirements.txt
